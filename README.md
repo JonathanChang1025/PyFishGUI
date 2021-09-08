@@ -1,2 +1,2 @@
 # PyFishGUI
-Automatically Fish in Minecraft using the GUI version of PyFish
+A windows executable that automatically fish in Minecraft using the GUI version of PyFish
